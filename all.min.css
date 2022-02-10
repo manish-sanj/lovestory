@@ -936,7 +936,7 @@ body,button {
 }
 .page-46 h3 span {
 	display:inline-block;
-	width:1em;
+	/* width:1em; */
 	vertical-align:top
 }
 .page-47 {
@@ -954,8 +954,9 @@ body,button {
 }
 .page-47 h3 span {
 	display:inline-block;
-	width:1em;
+	/* width:1em; */
 	vertical-align:top
+	
 }
 .page-48 {
 	background-color:#e3e2e7
