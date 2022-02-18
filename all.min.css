@@ -31,6 +31,7 @@ table {
 }
 html,body {
 	width:100%;
+	background: crimson;
 	height:100%;
 	-webkit-text-size-adjust:none
 }
